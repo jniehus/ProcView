@@ -1,1 +1,3 @@
 Image processing application that applies a kernel to an image and displays the resultant image next to the original.  One of my first applications that I developed while going to UCSC Ext.  Many examples of "what not to do" and antipatterns :P 
+
+Also, please excuse all the stupid glow effects and animations, I was just practicing my WPF :)
